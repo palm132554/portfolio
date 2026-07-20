@@ -35,3 +35,12 @@ main{
 display: flex;
 grid-template-columns: 1fr 1fr 1fr;
 }
+.logo-img {
+width: 70px;
+height: auto;
+display: block;
+}
+.logo-container{
+padding: 10px 20px;
+float: left;
+}
